@@ -3,7 +3,7 @@
 
 - **Project Goal:** Develop a machine learning model using historical credit card transaction data to predict whether future transactions are legitimate or fraudulent.
 
-- **Source:** [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download) 
+- **Source:** [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download) 
 
 ## Project Overview
 
