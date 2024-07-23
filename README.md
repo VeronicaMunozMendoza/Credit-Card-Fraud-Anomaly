@@ -1,9 +1,9 @@
 # Credit-Card-Fraud-Anomaly
 
-Reflection on Credit Card Fraud Detection Project
-Project Goal: Develop a machine learning model using historical credit card transaction data to predict whether future transactions are legitimate or fraudulent.
-Source: Kaggle Credit Card Fraud Dataset
 
+- **Project Goal:** Develop a machine learning model using historical credit card transaction data to predict whether future transactions are legitimate or fraudulent.
+
+- **Source:** [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download) 
 
 ## Project Overview
 
